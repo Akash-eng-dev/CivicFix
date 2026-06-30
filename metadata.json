@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix",
+  "description": "CivicFix empowers citizens to report, validate, track, and resolve community infrastructure issues through AI-powered automation, deduplication, and geolocation.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
